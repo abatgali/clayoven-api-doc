@@ -35,7 +35,8 @@ Welcome to the Clay Oven API! You can access our endpoints to get information on
     "price": 4.99,
     "description": "Crispy turnovers stuffed with spiced potatoes.",
     "glutenFree": false,
-    "veganPrep": false
+    "veganPrep": false,
+    "image": "url", 
   },
   {
     "itemID": 2,
@@ -43,7 +44,8 @@ Welcome to the Clay Oven API! You can access our endpoints to get information on
     "price": 4.99,
     "description": "Deep fried garbanzo beans batter mix stuffed with Indian homemade cheese.",
     "glutenFree": false,
-    "veganPrep": false
+    "veganPrep": false,
+    "image": "url"
   }
 ]
 ```
